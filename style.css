@@ -1,0 +1,46 @@
+.center-box {
+    background-color: rgb(32, 32, 116);
+    width: 1000px;
+    height: 250px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.center-item {
+    background-color: antiquewhite;
+    width: 100px;
+    height: 100px;
+}
+
+.nav {
+    margin: auto;
+    background-color: rgba(82, 164, 245, 0.897);
+    width: 1000px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family: 'Montserrat';
+    color: white;
+}
+
+img {
+    width: 90px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: darkslateblue;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
